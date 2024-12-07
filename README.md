@@ -32,6 +32,8 @@ File `database.php` digunakan untuk koneksi ke database dan menyediakan operasi 
 1. Hasil
    ![Screenshot (395)](https://github.com/user-attachments/assets/dd475399-1995-40de-b688-e9b5b1e8c778)
 
+---
+[Instagram](https://www.instagram.com/mianaqu/)
 
 ## Penulis
 - Nama: **[Michael Andrea Aquino]**
